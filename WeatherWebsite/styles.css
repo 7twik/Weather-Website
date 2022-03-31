@@ -1,0 +1,54 @@
+body
+{
+    
+    background:url("https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: bottom 100px;
+}
+h1
+{
+    color: rgb(217, 218, 142);
+    padding: 40px;
+    font-family: 'Inspiration','Ariel';
+    font-size:90px;
+    text-shadow: 1.5px 1.5px #161E54;
+}
+img
+{
+    width:40px;
+    padding-left: -10px;
+    float:left;
+}
+h2
+{
+    color: rgb(238, 198, 185);
+    padding: 20px;
+    font-family: 'Hurricane','Ariel';
+    font-size:70px;
+    text-shadow: 1.5px 1.5px #161E54;
+}
+
+section
+{
+    position: relative;
+}
+.time
+{
+    color: rgb(240, 199, 175);
+    font-size: 40px;
+    position:absolute;
+    margin-top: -340px;
+    margin-left: 1300px;
+    text-align: right;
+    text-shadow: 1.5px 1.5px #161E54;
+    font-family: 'Hurricane';
+}
+.pop
+{
+    font-family: 'Hurricane';
+}
+img
+{
+    width: 200px;
+}
