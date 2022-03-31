@@ -1,0 +1,32 @@
+body
+{
+    
+    background:url("https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: bottom 100px;
+}
+h1
+{
+    color: rgb(217, 218, 142);
+    padding: 40px;
+    font-family: 'Inspiration','Ariel';
+    font-size:90px;
+    text-shadow: 1.5px 1.5px #161E54;
+}
+img
+{
+    width:40px;
+    padding-left: -10px;
+}
+section
+{
+    position: relative;
+}
+.time
+{
+    color: white;
+    font-size: 70px;
+    position:absolute;
+    margin-top: -40px;
+}
